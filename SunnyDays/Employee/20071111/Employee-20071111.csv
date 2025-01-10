@@ -1,0 +1,4 @@
+"BusinessEntityID","NationalIDNumber","LoginID","OrganizationNode","OrganizationLevel","JobTitle","BirthDate","MaritalStatus","Gender","HireDate","SalariedFlag","VacationHours","SickLeaveHours","CurrentFlag","rowguid","ModifiedDate"
+28,"14417807","adventure-works\guy1","b'z\xd6\xb0'",4,"Production Technician - WC60","1988-03-13","M","M","2006-06-30",False,21,30,True,"AAE1D04A-C237-4974-B4D5-935247737718","2014-06-30"
+17,"253022876","adventure-works\kevin0","b'j\xc0'",2,"Marketing Assistant","1987-05-03","S","M","2007-01-26",False,42,41,True,"1B480240-95C0-410F-A717-EB29943C8886","2014-06-30"
+3,"509647174","adventure-works\roberto0","b'Z\xc0'",2,"Engineering Manager","1974-11-12","M","M","2007-11-11",True,2,21,True,"9BBBFB2C-EFBB-4217-9AB7-F97689328841","2014-06-30"

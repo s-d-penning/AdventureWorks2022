@@ -1,0 +1,2 @@
+"BusinessEntityID","NationalIDNumber","LoginID","OrganizationNode","OrganizationLevel","JobTitle","BirthDate","MaritalStatus","Gender","HireDate","SalariedFlag","VacationHours","SickLeaveHours","CurrentFlag","rowguid","ModifiedDate"
+28,"14417807","adventure-works\guy1","b'z\xd6\xb0'",4,"Production Technician - WC60","1988-03-13","M","M","2006-06-30",False,21,30,True,"AAE1D04A-C237-4974-B4D5-935247737718","2014-06-30"

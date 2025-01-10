@@ -1,0 +1,6 @@
+"BusinessEntityID","NationalIDNumber","LoginID","OrganizationNode","OrganizationLevel","JobTitle","BirthDate","MaritalStatus","Gender","HireDate","SalariedFlag","VacationHours","SickLeaveHours","CurrentFlag","rowguid","ModifiedDate"
+28,"14417807","adventure-works\guy1","b'z\xd6\xb0'",4,"Production Technician - WC60","1988-03-13","M","M","2006-06-30",False,21,30,True,"AAE1D04A-C237-4974-B4D5-935247737718","2014-06-30"
+17,"253022876","adventure-works\kevin0","b'j\xc0'",2,"Marketing Assistant","1987-05-03","S","M","2007-01-26",False,42,41,True,"1B480240-95C0-410F-A717-EB29943C8886","2014-06-30"
+3,"509647174","adventure-works\roberto0","b'Z\xc0'",2,"Engineering Manager","1974-11-12","M","M","2007-11-11",True,2,21,True,"9BBBFB2C-EFBB-4217-9AB7-F97689328841","2014-06-30"
+4,"112457891","adventure-works\rob0","b'Z\xd6'",3,"Senior Tool Designer","1974-12-23","S","M","2007-12-05",False,48,80,True,"59747955-87B8-443F-8ED4-F8AD3AFDF3A9","2014-06-30"
+12,"480168528","adventure-works\thierry0","b'Z\xe3X'",4,"Tool Designer","1959-07-29","M","M","2007-12-11",False,9,24,True,"1D955171-E773-4FAD-8382-40FD898D5D4D","2014-06-30"

@@ -1,0 +1,2 @@
+"BusinessEntityID","PersonType","NameStyle","Title","FirstName","MiddleName","LastName","Suffix","EmailPromotion","AdditionalContactInfo","Demographics","rowguid","ModifiedDate"
+28,"EM",False,"","Guy","R","Gilbert","",0,"","<IndividualSurvey xmlns=""http://schemas.microsoft.com/sqlserver/2004/07/adventure-works/IndividualSurvey""><TotalPurchaseYTD>0</TotalPurchaseYTD></IndividualSurvey>","D366A33A-8EDE-42BD-BF79-3E7FB9713FE1","2006-06-23"
